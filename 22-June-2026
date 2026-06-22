@@ -1,0 +1,7 @@
+vector<int>ans;
+f() {
+if(root == null ptr) return < };
+ans.push back(root -> val);
+f(root -> Left)
+f(root -> right);
+}
